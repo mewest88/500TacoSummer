@@ -1,0 +1,5 @@
+FEATURE CHECKLIST
+- look at the media queries page on w3 schools to make the page responsive
+- add some javascript to handle a countdown to the beginning and a countdown to the end
+- add a way to log in
+- add a way to save taco count Data
